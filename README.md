@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ydabounou
-- 👀 I’m interested in anamyzing data
+- 👀 I’m interested in analyzing data
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
